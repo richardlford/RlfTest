@@ -1,7 +1,7 @@
 RlfTest
 =======
 
-# Testing
+# Testing {#mylabel}
 * Item1
 * Item2
 
