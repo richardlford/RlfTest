@@ -1,3 +1,10 @@
+<properties
+	pageTitle="FTP"
+	description="bla bla bla"
+	slug="ftp"
+                order="300"
+	keywords="ftp, deploy"
+/>
 RlfTest
 =======
 
