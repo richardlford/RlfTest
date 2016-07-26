@@ -1,12 +1,8 @@
-Title         : My Academic Paper
+Title         : The Second Commit
 
-Author        : You
-Affiliation   : Research institute
-Email         : you@bar.com
-
-Author        : My co-author
-Affiliation   : Other institute
-Email         : other@bar.com
+Author        : Richard L Ford
+Affiliation   : Forward Formal Methods
+Email         : richardlford@gmail.com
 
 Bibliography  : example.bib
 Doc class     : [reprint,nocopyrightspace]style/sigplanconf.cls
